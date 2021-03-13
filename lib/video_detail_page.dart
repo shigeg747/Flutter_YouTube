@@ -7,7 +7,7 @@ class VideoDetailPage extends StatelessWidget{
       appBar: AppBar(),
       body: Center(
         child: Container(
-            child: Text('ここに動画を配置',)
+            child: Text('動画をおかなければいかん',)
         ),
       ),
     );
